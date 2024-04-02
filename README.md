@@ -5,6 +5,8 @@
 body {
   background-image: url("Fuzzy hearts.jpg");
   background-size: 100%;
+   background-size: 100%;
+  background-attachment: fixed;
 }
 </style>
 </head>
